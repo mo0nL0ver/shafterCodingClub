@@ -1,0 +1,50 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #ADD8E6;
+  
+}
+
+/*navigation*/
+/*nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 8px;
+  background-color: pink;
+}
+nav li{
+  display: inline;
+}*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #247;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+/*Resources Tab*/
+#replit{
+  width: 200px;
+  length: auto;
+}
+#W3School{
+  width: 150px;
+  length: auto;
+}

@@ -48,3 +48,12 @@ li a:hover {
   width: 150px;
   length: auto;
 }
+p {
+  font-family: monospace;
+}
+h2 {
+  font-family: monospace;
+}
+h1 {
+  font-family: monospace;
+}
